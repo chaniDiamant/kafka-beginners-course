@@ -1,0 +1,13 @@
+
+a
+java:S2095!"KUse try-with-resources or close this "KafkaConsumer" in a "finally" clause.(ûåâ
+w
+java:S26298"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(è¿çşÿÿÿÿ
+r
+java:S26299"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(úÚ€œ
+o
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûåâ
+\
+java:S34578"AFormat specifiers should be used instead of string concatenation.(è¿çşÿÿÿÿ
+W
+java:S34579"AFormat specifiers should be used instead of string concatenation.(úÚ€œ
